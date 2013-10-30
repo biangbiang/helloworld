@@ -33,7 +33,8 @@ POST
 
 ####返回结果
 
-    {
+```json
+{
 	    "no":0,
     	"msg":" ",
     	"data":[
@@ -44,7 +45,8 @@ POST
 	    	{……},
 	    	……
     	]
-    }
+}
+```
 
 
 ---
@@ -53,7 +55,7 @@ POST
 
 #### http 请求地址
 
-https://www.upyun.com/http_logs_load.api.php
+https://www.upyun.com/http-logs-load.api.php
 
 
 ####http请求方法
@@ -81,9 +83,11 @@ POST
 
 ####返回结果
 
-    {
+```json
+{
     	"no":0,
     	"msg":" ",
     	"data":"http:\/\/jeijeog:3Kb5ExWPle@122.225.106.147:830\/2013-10-24\/y.\/biangbiang.b0.upaiyun.com.2013-10-24-00.cbf01e0dc5266cff8ac3121668011b0d.gz"
-    }
+}
+```
 
